@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res"/><source path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\build\generated\res\rs\debug"/><source path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res"><file name="a" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\drawable\a.png" qualifiers="" type="drawable"/><file name="ic_action_search" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\drawable\ic_action_search.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\drawable\ic_launcher.png" qualifiers="" type="drawable"/><file name="activity" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity.xml" qualifiers="" type="layout"/><file name="activity_barcode" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_barcode.xml" qualifiers="" type="layout"/><file name="activity_checkkey" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_checkkey.xml" qualifiers="" type="layout"/><file name="activity_cmd" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_cmd.xml" qualifiers="" type="layout"/><file name="activity_connectbtmac" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_connectbtmac.xml" qualifiers="" type="layout"/><file name="activity_connectbtpaired" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_connectbtpaired.xml" qualifiers="" type="layout"/><file name="activity_connectip" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_connectip.xml" qualifiers="" type="layout"/><file name="activity_connectusb" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_connectusb.xml" qualifiers="" type="layout"/><file name="activity_curve" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_curve.xml" qualifiers="" type="layout"/><file name="activity_cutter" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_cutter.xml" qualifiers="" type="layout"/><file name="activity_form" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_form.xml" qualifiers="" type="layout"/><file name="activity_formattext" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_formattext.xml" qualifiers="" type="layout"/><file name="activity_picture" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_picture.xml" qualifiers="" type="layout"/><file name="activity_plaintext" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_plaintext.xml" qualifiers="" type="layout"/><file name="activity_qrcode" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_qrcode.xml" qualifiers="" type="layout"/><file name="activity_searchbt" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_searchbt.xml" qualifiers="" type="layout"/><file name="activity_setbtpara" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_setbtpara.xml" qualifiers="" type="layout"/><file name="activity_setkey" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_setkey.xml" qualifiers="" type="layout"/><file name="activity_tc03" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_tc03.xml" qualifiers="" type="layout"/><file name="activity_updateprogram" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\activity_updateprogram.xml" qualifiers="" type="layout"/><file name="file_list_item" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\file_list_item.xml" qualifiers="" type="layout"/><file name="file_manager" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\file_manager.xml" qualifiers="" type="layout"/><file name="lay1" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\lay1.xml" qualifiers="" type="layout"/><file name="lay2" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\lay2.xml" qualifiers="" type="layout"/><file name="lay3" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\lay3.xml" qualifiers="" type="layout"/><file name="lay4" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\lay4.xml" qualifiers="" type="layout"/><file name="list_item_printernameandmac" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\list_item_printernameandmac.xml" qualifiers="" type="layout"/><file name="myprinter_main" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\myprinter_main.xml" qualifiers="" type="layout"/><file name="start_private" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\layout\start_private.xml" qualifiers="" type="layout"/><file name="main" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="qrcodewidth">
+        <item>QR code width 2</item>
+        <item>QR code width 3</item>
+        <item>QR code width 4</item>
+        <item>QR code width 5</item>
+        <item>QR code width 6</item>
+    </string-array><string-array name="scaletimes_height">
+        <item>No enlarge height</item>
+        <item>elarge 1 times</item>
+        <item>elarge 2 times</item>
+        <item>elarge 3 times</item>
+        <item>elarge 4 times</item>
+        <item>elarge 5 times</item>
+        <item>elarge 6 times</item>
+    </string-array><string-array name="barcodestartorgx">
+        <item>No indent</item>
+        <item>Indent 1 character</item>
+        <item>Indent 2 character</item>
+        <item>Indent 3 character</item>
+        <item>Indent 4 character</item>
+        <item>Indent 5 character</item>
+        <item>Indent 6 character</item>
+        <item>Indent 7 character</item>
+        <item>Indent 8 character</item>
+        <item>Indent 9 character</item>
+        <item>Indent 10 character</item>
+        <item>Indent 11 character</item>
+        <item>Indent 12 character</item>
+        <item>Indent 13 character</item>
+        <item>Indent 14 character</item>
+        <item>Indent 15 character</item>
+        <item>Indent 16 character</item>
+    </string-array><string-array name="fontsize">
+        <item>Standard font</item>
+        <item>Compress font</item>
+        <item>No assign</item>
+    </string-array><string-array name="errorcorrectionlevel">
+        <item>Error level 1</item>
+        <item>Error level 2</item>
+        <item>Error level 3</item>
+        <item>Error level 4</item>
+    </string-array><string-array name="textalign">
+        <item>Left-aligned</item>
+        <item>Align center</item>
+        <item>Right-aligned</item>
+    </string-array><string-array name="barcodestr">
+        <item>123456789012</item>
+        <item>023456000089</item>
+        <item>023456000089</item>
+        <item>02345600</item>
+        <item>02345600</item>
+        <item>02345600</item>
+        <item>234560</item>
+        <item>*234560*</item>
+        <item>*234560*</item>
+    </string-array><string-array name="scaletimes_width">
+        <item>No enlarge width</item>
+        <item>elarge 1 times</item>
+        <item>elarge 2 times</item>
+        <item>elarge 3 times</item>
+        <item>elarge 4 times</item>
+        <item>elarge 5 times</item>
+        <item>elarge 6 times</item>
+    </string-array><string-array name="barcodetype">
+        <item>UPC A</item>
+        <item>UPC E</item>
+        <item>EAN 13</item>
+        <item>EAN 8</item>
+        <item>CODE 39</item>
+        <item>ITF</item>
+        <item>CODEBAR</item>
+        <item>CODE 93</item>
+        <item>CODE 128</item>
+    </string-array><string-array name="qrcodestartorgx">
+        <item>No indent</item>
+        <item>Indent 1 character</item>
+        <item>Indent 2 character</item>
+        <item>Indent 3 character</item>
+        <item>Indent 4 character</item>
+        <item>Indent 5 character</item>
+        <item>Indent 6 character</item>
+        <item>Indent 7 character</item>
+        <item>Indent 8 character</item>
+        <item>Indent 9 character</item>
+        <item>Indent 10 character</item>
+        <item>Indent 11 character</item>
+        <item>Indent 12 character</item>
+        <item>Indent 13 character</item>
+        <item>Indent 14 character</item>
+        <item>Indent 15 character</item>
+        <item>Indent 16 character</item>
+    </string-array><string-array name="qrcodetype">
+        <item>QR code</item>
+    </string-array><string-array name="scaletimes_height_max2">
+        <item>No enlarge height</item>
+        <item>elarge 1 times</item>
+    </string-array><string-array name="barcodeheight">
+        <item>Barcode height 24 point</item>
+        <item>Barcode height 48 point</item>
+        <item>Barcode height 72 point</item>
+        <item>Barcode height 96 point</item>
+        <item>Barcode height 120 point</item>
+        <item>Barcode height 144 point</item>
+        <item>Barcode height 168 point</item>
+        <item>Barcode height 192 point</item>
+    </string-array><string-array name="barcodefonttype">
+        <item>Standard font</item>
+        <item>Compress font</item>
+        <item>No assign</item>
+    </string-array><string-array name="scaletimes_width_max2">
+        <item>No enlarge width</item>
+        <item>elarge 1 times</item>
+    </string-array><string-array name="darkness">
+        <item>Low</item>
+        <item>Normal</item>
+        <item>Dark</item>
+    </string-array><string-array name="barcodewidth">
+        <item>Barcode width 2</item>
+        <item>Barcode width 3</item>
+        <item>Barcode width 4</item>
+        <item>Barcode width 5</item>
+        <item>Barcode width 6</item>
+    </string-array><string-array name="barcodefontposition">
+        <item>No print barcode text</item>
+        <item>Print upper barcode</item>
+        <item>Print under barcode</item>
+        <item>Barcode upper and under printing</item>
+    </string-array></file><file path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\values\colors.xml" qualifiers=""><color name="lightsalmon">#ffa07a</color><color name="darkcyan">#008b8b</color><color name="olivedrab">#6b8e23</color><color name="lightcyan">#e0ffff</color><color name="maroon">#800000</color><color name="mediumspringgreen">#00fa9a</color><color name="royalblue">#4169e1</color><color name="darkmagenta">#8b008b</color><color name="darkgreen">#006400</color><color name="mintcream">#f5fffa</color><color name="seagreen">#2e8b57</color><color name="peru">#cd853f</color><color name="slategrey">#708090</color><color name="floralwhite">#fffaf0</color><color name="dimgray">#696969</color><color name="beige">#f5f5dc</color><color name="orchid">#da70d6</color><color name="lavenderblush">#fff0f5</color><color name="bisque">#ffe4c4</color><color name="goldenrod">#daa520</color><color name="palegreen">#98fb98</color><color name="mediumturquoise">#48d1cc</color><color name="green">#008000</color><color name="darkslategray">#2f4f4f</color><color name="lime">#00ff00</color><color name="chocolate">#d2691e</color><color name="darkslateblue">#483d8b</color><color name="oldlace">#fdf5e6</color><color name="ghostwhite">#f8f8ff</color><color name="purple">#800080</color><color name="darkblue">#00008b</color><color name="burlywood">#deb887</color><color name="white">#ffffff</color><color name="grey">#808080</color><color name="palevioletred">#db7093</color><color name="lightgray">#d3d3d3</color><color name="mediumvioletred">#c71585</color><color name="darkgrey">#a9a9a9</color><color name="steelblue">#4682b4</color><color name="darkkhaki">#bdb76b</color><color name="rosybrown">#bc8f8f</color><color name="dodgerblue">#1e90ff</color><color name="lightslategrey">#778899</color><color name="midnightblue">#191970</color><color name="salmon">#fa8072</color><color name="peachpuff">#ffdab9</color><color name="lightblue">#add8e6</color><color name="black">#000000</color><color name="crimson">#dc143c</color><color name="darkorange">#ff8c00</color><color name="gainsboro">#dcdcdc</color><color name="saddlebrown">#8b4513</color><color name="cadetblue">#5f9ea0</color><color name="tomato">#ff6347</color><color name="darkolivegreen">#556b2f</color><color name="aquamarine">#7fffd4</color><color name="darkred">#8b0000</color><color name="lightpink">#ffb6c1</color><color name="indianred">#cd5c5c</color><color name="mediumaquamarine">#66cdaa</color><color name="forestgreen">#228b22</color><color name="seaShell">#fff5ee</color><color name="mediumpurple">#9370db</color><color name="wheat">#f5deb3</color><color name="cornflowerblue">#6495ed</color><color name="darksalmon">#e9967a</color><color name="mediumorchid">#ba55d3</color><color name="cyan">#00ffff</color><color name="thistle">#d8bfd8</color><color name="ivory">#fffff0</color><color name="silver">#c0c0c0</color><color name="cornsilk">#fff8dc</color><color name="slategray">#708090</color><color name="lightgoldenrodyellow">#fafad2</color><color name="aliceblue">#f0f8ff</color><color name="limegreen">#32cd32</color><color name="powderblue">#b0e0e6</color><color name="indigo">#4b0082</color><color name="lightsteelblue">#b0c4de</color><color name="slateblue">#6a5acd</color><color name="darkgoldenrod">#b8860b</color><color name="springgreen">#00ff7f</color><color name="lightyellow">#ffffe0</color><color name="blueviolet">#8a2be2</color><color name="orangered">#ff4500</color><color name="snow">#fffafa</color><color name="brown">#a52a2a</color><color name="whitesmoke">#f5f5f5</color><color name="honeydew">#f0fff0</color><color name="dimgrey">#696969</color><color name="pink">#ffc0cb</color><color name="firebrick">#b22222</color><color name="lightseagreen">#20b2aa</color><color name="antiquewhite">#faebd7</color><color name="deepskyblue">#00bfff</color><color name="coral">#ff7f50</color><color name="teal">#008080</color><color name="blue">#0000ff</color><color name="orange">#ffa500</color><color name="gold">#ffd700</color><color name="darkslategrey">#2f4f4f</color><color name="lawngreen">#7cfc00</color><color name="sandybrown">#f4a460</color><color name="gray">#808080</color><color name="moccasin">#ffe4b5</color><color name="lavender">#e6e6fa</color><color name="mediumslateblue">#7b68ee</color><color name="magenta">#ff00ff</color><color name="lightgrey">#d3d3d3</color><color name="darkgray">#a9a9a9</color><color name="darkorchid">#9932cc</color><color name="hotpink">#ff69b4</color><color name="lightcoral">#f08080</color><color name="violet">#ee82ee</color><color name="palegoldenrod">#eee8aa</color><color name="khaki">#f0e68c</color><color name="greenyellow">#adff2f</color><color name="darkturquoise">#00ced1</color><color name="papayawhip">#ffefd5</color><color name="navy">#000080</color><color name="darkviolet">#9400d3</color><color name="lightskyblue">#87cefa</color><color name="aqua">#00ffff</color><color name="lightslategray">#778899</color><color name="sienna">#a0522d</color><color name="mistyrose">#ffe4e1</color><color name="lightgreen">#90ee90</color><color name="red">#ff0000</color><color name="blanchedalmond">#ffebcd</color><color name="navajowhite">#ffdead</color><color name="linen">#faf0e6</color><color name="yellow">#ffff00</color><color name="tan">#d2b48c</color><color name="fuchsia">#ff00ff</color><color name="paleturquoise">#afeeee</color><color name="azure">#f0ffff</color><color name="plum">#dda0dd</color><color name="darkseagreen">#8fbc8f</color><color name="mediumblue">#0000cd</color><color name="deeppink">#ff1493</color><color name="turquoise">#40e0d0</color><color name="mediumseagreen">#3cb371</color><color name="lemonchiffon">#fffacd</color><color name="chartreuse">#7fff00</color><color name="olive">#808000</color><color name="skyblue">#87ceeb</color></file><file path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\values\strings.xml" qualifiers=""><string name="curve">Curve</string><string name="connectpairedprinter">Connect paired printer</string><string name="turnright90">Turn right 90 degree</string><string name="blackwhitereverse">Reverse display black and white</string><string name="textalign_left">Left aligned</string><string name="scaletimes_0">No enlarge</string><string name="toast_usbpermit">Please permit app use usb and reclick this button</string><string name="cuttercmd">Cutter command</string><string name="rightspace">Right space</string><string name="updateprinterprogram">Update printer program</string><string name="toast_fail">Fail</string><string name="inputbtmachint">Input bt mac. eg:01:23:45:67:89:AB</string><string name="printernotconnected">Printer not connected</string><string name="qrcodewidth">QRCode width</string><string name="connectprinterbtmac">Connect printer bt mac</string><string name="height">Height</string><string name="printqrcode">Print qrcode</string><string name="scaletimes_height_0">No enlarge height</string><string name="text">Plain text</string><string name="clearsend">Clear send</string><string name="feedandcut">Feed and cut</string><string name="printform">Print form</string><string name="set">Set</string><string name="settings">Set</string><string name="qrcodestartorgx">QRCode start position</string><string name="form">Form</string><string name="paperwidthsem">Paper width:</string><string name="paperwidth2inch">2in</string><string name="formattext">Format text</string><string name="ip">IP</string><string name="searchprinterthenconnect">Search printer and connect</string><string name="setprinterpara">Set printer para</string><string name="scaletimes">Enlargement factor</string><string name="underline">Underline</string><string name="scaletimes_width_0">No enlarge width</string><string name="menu_setdebug">Set Debug</string><string name="app_name">MyPrinter</string><string name="barcodefonttype">Barcode text font type</string><string name="printrussianstring">Print Russian chars.</string><string name="lineheight">Line height</string><string name="size">Size</string><string name="darkness_standard">Normal</string><string name="recv">Recv:</string><string name="printing">Printing</string><string name="darkness">Darkness</string><string name="printepsonqrcode">Use epson command</string><string name="light">Light</string><string name="textalign_center">Center aligned</string><string name="printcurve">Print curve</string><string name="paperwidth4inch">4in</string><string name="web">Web</string><string name="browser">Browser</string><string name="connectnetprinter">Connect net printer</string><string name="textandpicture">Txt</string><string name="fontsize_12x24">12x24</string><string name="updateprogram">Update Program</string><string name="contentdescription"/><string name="qrcodetype">QRCode type</string><string name="fullcut">Full cut</string><string name="binaryimage">Binary image</string><string name="fontsize">Font size</string><string name="bold">Bold</string><string name="verify">Verify</string><string name="startorgx">Start position</string><string name="send">Send</string><string name="setbtpara">Set Printer Bt Para</string><string name="welcomes">Welcome</string><string name="printenglishstring">Print English chars.</string><string name="printbarcode">Print barcode</string><string name="connectusbprinter">Connect usb printer</string><string name="barcodefontposition">Barcode text position</string><string name="searchkeyhint">Input 8 chars key for setting</string><string name="barcodewidth">Barcode width</string><string name="qrcode">QRCode</string><string name="command">Cmd</string><string name="printpicture">Print picture</string><string name="barcodeheight">Barcode height</string><string name="halfcut">Half cut</string><string name="errorcorrectionlevel">Error level</string><string name="clearreceive">Clear receive</string><string name="darkness_dark">Dark</string><string name="menu_exit">Exit</string><string name="width">Width</string><string name="welcometouse">Welcome to use</string><string name="sendtouart">Send To Uart</string><string name="connectbtmacaddress">Connect printer bt mac</string><string name="webprint">Web print</string><string name="fontsize_9x17">9x17</string><string name="gbk">GBK</string><string name="checkkeyhint">Please input 8 chars key for check</string><string name="textalign_right">Right aligned</string><string name="connect">Connect</string><string name="setkey">Set key</string><string name="toast_notconnect">Please connect printer</string><string name="underline2">2 dot underline</string><string name="printchinesestring">Print Chinese chars.</string><string name="sendtext">Send Text</string><string name="toast_success">Success</string><string name="underline1">1 dot underline</string><string name="paperwidth3inch">3in</string><string name="picture">Picture</string><string name="port">Port</string><string name="upsidedownprint">Invert printing</string><string name="sendcmd">Send commad</string><string name="textalign">Alignment</string><string name="barcode">Barcode</string><string name="search">Search</string><string name="utf8">UTF8</string><string name="verifykey">Verify key</string><string name="barcodetype">Barcode type</string><string name="paperwidth">Paper width</string></file><file path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style></file><file path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\values-en\arrays.xml" qualifiers="en"><string-array name="qrcodetype">
+        <item>QR code</item>
+    </string-array><string-array name="errorcorrectionlevel">
+        <item>Error level 1</item>
+        <item>Error level 2</item>
+        <item>Error level 3</item>
+        <item>Error level 4</item>
+    </string-array><string-array name="qrcodestartorgx">
+        <item>No indent</item>
+        <item>Indent 1 character</item>
+        <item>Indent 2 character</item>
+        <item>Indent 3 character</item>
+        <item>Indent 4 character</item>
+        <item>Indent 5 character</item>
+        <item>Indent 6 character</item>
+        <item>Indent 7 character</item>
+        <item>Indent 8 character</item>
+        <item>Indent 9 character</item>
+        <item>Indent 10 character</item>
+        <item>Indent 11 character</item>
+        <item>Indent 12 character</item>
+        <item>Indent 13 character</item>
+        <item>Indent 14 character</item>
+        <item>Indent 15 character</item>
+        <item>Indent 16 character</item>
+    </string-array><string-array name="barcodefontposition">
+        <item>No print barcode text</item>
+        <item>Print upper barcode</item>
+        <item>Print under barcode</item>
+        <item>Barcode upper and under printing</item>
+    </string-array><string-array name="barcodetype">
+        <item>UPC A</item>
+        <item>UPC E</item>
+        <item>EAN 13</item>
+        <item>EAN 8</item>
+        <item>CODE 39</item>
+        <item>ITF</item>
+        <item>CODEBAR</item>
+        <item>CODE 93</item>
+        <item>CODE 128</item>
+    </string-array><string-array name="fontsize">
+        <item>Standard font</item>
+        <item>Compress font</item>
+        <item>No assign</item>
+    </string-array><string-array name="scaletimes_width">
+        <item>No enlarge width</item>
+        <item>elarge 1 times</item>
+        <item>elarge 2 times</item>
+        <item>elarge 3 times</item>
+        <item>elarge 4 times</item>
+        <item>elarge 5 times</item>
+        <item>elarge 6 times</item>
+    </string-array><string-array name="barcodefonttype">
+        <item>Standard font</item>
+        <item>Compress font</item>
+        <item>No assign</item>
+    </string-array><string-array name="barcodestartorgx">
+        <item>No indent</item>
+        <item>Indent 1 character</item>
+        <item>Indent 2 character</item>
+        <item>Indent 3 character</item>
+        <item>Indent 4 character</item>
+        <item>Indent 5 character</item>
+        <item>Indent 6 character</item>
+        <item>Indent 7 character</item>
+        <item>Indent 8 character</item>
+        <item>Indent 9 character</item>
+        <item>Indent 10 character</item>
+        <item>Indent 11 character</item>
+        <item>Indent 12 character</item>
+        <item>Indent 13 character</item>
+        <item>Indent 14 character</item>
+        <item>Indent 15 character</item>
+        <item>Indent 16 character</item>
+    </string-array><string-array name="textalign">
+        <item>Left-aligned</item>
+        <item>Align center</item>
+        <item>Right-aligned</item>
+    </string-array><string-array name="scaletimes_width_max2">
+        <item>No enlarge width</item>
+        <item>elarge 1 times</item>
+    </string-array><string-array name="barcodestr">
+        <item>123456789012</item>
+        <item>023456000089</item>
+        <item>023456000089</item>
+        <item>02345600</item>
+        <item>02345600</item>
+        <item>02345600</item>
+        <item>234560</item>
+        <item>*234560*</item>
+        <item>*234560*</item>
+    </string-array><string-array name="darkness">
+        <item>Low</item>
+        <item>Normal</item>
+        <item>Dark</item>
+    </string-array><string-array name="barcodewidth">
+        <item>Barcode width 2</item>
+        <item>Barcode width 3</item>
+        <item>Barcode width 4</item>
+        <item>Barcode width 5</item>
+        <item>Barcode width 6</item>
+    </string-array><string-array name="qrcodewidth">
+        <item>QR code width 2</item>
+        <item>QR code width 3</item>
+        <item>QR code width 4</item>
+        <item>QR code width 5</item>
+        <item>QR code width 6</item>
+    </string-array><string-array name="scaletimes_height">
+        <item>No enlarge height</item>
+        <item>elarge 1 times</item>
+        <item>elarge 2 times</item>
+        <item>elarge 3 times</item>
+        <item>elarge 4 times</item>
+        <item>elarge 5 times</item>
+        <item>elarge 6 times</item>
+    </string-array><string-array name="scaletimes_height_max2">
+        <item>No enlarge height</item>
+        <item>elarge 1 times</item>
+    </string-array><string-array name="barcodeheight">
+        <item>Barcode height 24 point</item>
+        <item>Barcode height 48 point</item>
+        <item>Barcode height 72 point</item>
+        <item>Barcode height 96 point</item>
+        <item>Barcode height 120 point</item>
+        <item>Barcode height 144 point</item>
+        <item>Barcode height 168 point</item>
+        <item>Barcode height 192 point</item>
+    </string-array></file><file path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\values-en\strings.xml" qualifiers="en"><string name="printernotconnected">Printer not connected</string><string name="barcodetype">Barcode type</string><string name="printpicture">Print picture</string><string name="size">Size</string><string name="paperwidth">Paper width</string><string name="textalign_center">Center aligned</string><string name="menu_setdebug">Set Debug</string><string name="paperwidth4inch">4in</string><string name="binaryimage">Binary image</string><string name="printepsonqrcode">Use epson command</string><string name="updateprogram">Update Program</string><string name="clearreceive">Clear receive</string><string name="printform">Print form</string><string name="menu_exit">Exit</string><string name="toast_fail">Fail</string><string name="printcurve">Print curve</string><string name="welcometouse">Welcome to use</string><string name="toast_notconnect">Please connect printer</string><string name="rightspace">Right space</string><string name="printbarcode">Print barcode</string><string name="recv">Recv:</string><string name="browser">Browser</string><string name="verify">Verify</string><string name="toast_success">Success</string><string name="sendcmd">Send commad</string><string name="printrussianstring">Print Russian chars.</string><string name="searchkeyhint">Input 8 chars key for setting</string><string name="form">Form</string><string name="qrcodestartorgx">QRCode start position</string><string name="blackwhitereverse">Reverse display black and white</string><string name="command">Cmd</string><string name="textalign_left">Left aligned</string><string name="setbtpara">Set Printer Bt Para</string><string name="light">Light</string><string name="fontsize_12x24">12x24</string><string name="barcodewidth">Barcode width</string><string name="fontsize">Font size</string><string name="connectprinterbtmac">Connect printer bt mac</string><string name="web">Web</string><string name="barcodefonttype">Barcode text font type</string><string name="fullcut">Full cut</string><string name="height">Height</string><string name="clearsend">Clear send</string><string name="darkness">Darkness</string><string name="printenglishstring">Print English chars.</string><string name="underline">Underline</string><string name="startorgx">Start position</string><string name="updateprinterprogram">Update printer program</string><string name="set">Set</string><string name="errorcorrectionlevel">Error level</string><string name="app_name">MyPrinter</string><string name="printing">Printing</string><string name="setprinterpara">Set printer para</string><string name="cuttercmd">Cutter command</string><string name="paperwidth2inch">2in</string><string name="connectbtmacaddress">Connect printer bt mac</string><string name="contentdescription"/><string name="port">Port</string><string name="picture">Picture</string><string name="settings">Set</string><string name="qrcodetype">QRCode type</string><string name="curve">Curve</string><string name="printchinesestring">Print Chinese chars.</string><string name="turnright90">Turn right 90 degree</string><string name="bold">Bold</string><string name="textalign">Alignment</string><string name="toast_usbpermit">Please permit app use usb and reclick this button</string><string name="searchprinterthenconnect">Search printer and connect</string><string name="paperwidthsem">Paper width:</string><string name="setkey">Set key</string><string name="textandpicture">Txt</string><string name="send">Send</string><string name="underline1">1 dot underline</string><string name="search">Search</string><string name="upsidedownprint">Invert printing</string><string name="barcode">Barcode</string><string name="ip">IP</string><string name="scaletimes_0">No enlarge</string><string name="connect">Connect</string><string name="welcomes">Welcome</string><string name="scaletimes_width_0">No enlarge width</string><string name="underline2">2 dot underline</string><string name="inputbtmachint">Input bt mac. eg:01:23:45:67:89:AB</string><string name="width">Width</string><string name="sendtouart">Send To Uart</string><string name="printqrcode">Print qrcode</string><string name="checkkeyhint">Please input 8 chars key for check</string><string name="formattext">Format text</string><string name="feedandcut">Feed and cut</string><string name="connectnetprinter">Connect net printer</string><string name="fontsize_9x17">9x17</string><string name="lineheight">Line height</string><string name="barcodeheight">Barcode height</string><string name="sendtext">Send Text</string><string name="paperwidth3inch">3in</string><string name="webprint">Web print</string><string name="connectpairedprinter">Connect paired printer</string><string name="darkness_standard">Normal</string><string name="textalign_right">Right aligned</string><string name="scaletimes">Enlargement factor</string><string name="barcodefontposition">Barcode text position</string><string name="halfcut">Half cut</string><string name="darkness_dark">Dark</string><string name="scaletimes_height_0">No enlarge height</string><string name="verifykey">Verify key</string><string name="connectusbprinter">Connect usb printer</string><string name="text">Plain text</string><string name="qrcode">QRCode</string><string name="qrcodewidth">QRCode width</string></file><file path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\values-zh\arrays.xml" qualifiers="zh"><string-array name="barcodewidth">
+        <item>条码宽度 2</item>
+        <item>条码宽度 3</item>
+        <item>条码宽度 4</item>
+        <item>条码宽度 5</item>
+        <item>条码宽度 6</item>
+    </string-array><string-array name="barcodestartorgx">
+        <item>不缩进</item>
+        <item>缩进1个字符</item>
+        <item>缩进2个字符</item>
+        <item>缩进3个字符</item>
+        <item>缩进4个字符</item>
+        <item>缩进5个字符</item>
+        <item>缩进6个字符</item>
+        <item>缩进7个字符</item>
+        <item>缩进8个字符</item>
+        <item>缩进9个字符</item>
+        <item>缩进10个字符</item>
+        <item>缩进11个字符</item>
+        <item>缩进12个字符</item>
+        <item>缩进13个字符</item>
+        <item>缩进14个字符</item>
+        <item>缩进15个字符</item>
+        <item>缩进16个字符</item>
+    </string-array><string-array name="barcodeheight">
+        <item>条码高度24点</item>
+        <item>条码高度48点</item>
+        <item>条码高度72点</item>
+        <item>条码高度96点</item>
+        <item>条码高度120点</item>
+        <item>条码高度144点</item>
+        <item>条码高度168点</item>
+        <item>条码高度192点</item>
+    </string-array><string-array name="qrcodetype">
+        <item>QR码</item>
+    </string-array><string-array name="textalign">
+        <item>左对齐</item>
+        <item>居中对齐</item>
+        <item>右对齐</item>
+    </string-array><string-array name="fontsize">
+        <item>标准字体</item>
+        <item>压缩字体</item>
+        <item>不指定</item>
+    </string-array><string-array name="scaletimes_height_max2">
+        <item>高不放大</item>
+        <item>放大1倍</item>
+    </string-array><string-array name="qrcodestartorgx">
+        <item>不缩进</item>
+        <item>缩进1个字符</item>
+        <item>缩进2个字符</item>
+        <item>缩进3个字符</item>
+        <item>缩进4个字符</item>
+        <item>缩进5个字符</item>
+        <item>缩进6个字符</item>
+        <item>缩进7个字符</item>
+        <item>缩进8个字符</item>
+        <item>缩进9个字符</item>
+        <item>缩进10个字符</item>
+        <item>缩进11个字符</item>
+        <item>缩进12个字符</item>
+        <item>缩进13个字符</item>
+        <item>缩进14个字符</item>
+        <item>缩进15个字符</item>
+        <item>缩进16个字符</item>
+    </string-array><string-array name="errorcorrectionlevel">
+        <item>纠错等级 1</item>
+        <item>纠错等级 2</item>
+        <item>纠错等级 3</item>
+        <item>纠错等级 4</item>
+    </string-array><string-array name="barcodefonttype">
+        <item>标准字体</item>
+        <item>压缩字体</item>
+        <item>不指定</item>
+    </string-array><string-array name="barcodefontposition">
+        <item>不打印条码文本</item>
+        <item>条码上方打印</item>
+        <item>条码下方打印</item>
+        <item>条码上、下方打印</item>
+    </string-array><string-array name="barcodestr">
+        <item>123456789012</item>
+        <item>023456000089</item>
+        <item>023456000089</item>
+        <item>02345600</item>
+        <item>02345600</item>
+        <item>02345600</item>
+        <item>234560</item>
+        <item>*234560*</item>
+        <item>*234560*</item>
+    </string-array><string-array name="qrcodewidth">
+        <item>二维码宽度 2</item>
+        <item>二维码宽度 3</item>
+        <item>二维码宽度 4</item>
+        <item>二维码宽度 5</item>
+        <item>二维码宽度 6</item>
+    </string-array><string-array name="barcodetype">
+        <item>UPC A码</item>
+        <item>UPC E码</item>
+        <item>EAN 13码</item>
+        <item>EAN 8码</item>
+        <item>CODE 39码</item>
+        <item>ITF码</item>
+        <item>CODEBAR码</item>
+        <item>CODE 93码</item>
+        <item>CODE 128码</item>
+    </string-array><string-array name="scaletimes_height">
+        <item>高不放大</item>
+        <item>放大1倍</item>
+        <item>放大2倍</item>
+        <item>放大3倍</item>
+        <item>放大4倍</item>
+        <item>放大5倍</item>
+        <item>放大6倍</item>
+    </string-array><string-array name="darkness">
+        <item>稍淡</item>
+        <item>一般</item>
+        <item>很浓</item>
+    </string-array><string-array name="scaletimes_width_max2">
+        <item>宽不放大</item>
+        <item>放大1倍</item>
+    </string-array><string-array name="scaletimes_width">
+        <item>宽不放大</item>
+        <item>放大1倍</item>
+        <item>放大2倍</item>
+        <item>放大3倍</item>
+        <item>放大4倍</item>
+        <item>放大5倍</item>
+        <item>放大6倍</item>
+    </string-array></file><file path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\values-zh\strings.xml" qualifiers="zh"><string name="searchprinterthenconnect">搜索并连接</string><string name="width">宽</string><string name="feedandcut">走纸到切刀位置并切纸</string><string name="lineheight">行高</string><string name="size">大小</string><string name="fullcut">全切</string><string name="setkey">设置密钥</string><string name="menu_setdebug">开启调试</string><string name="darkness_dark">很浓</string><string name="formattext">格式化文本</string><string name="scaletimes_width_0">宽不放大</string><string name="welcometouse">欢迎使用</string><string name="updateprogram">更新程序</string><string name="sendtouart">发往串口</string><string name="text">文本</string><string name="barcodetype">条码类型</string><string name="fontsize_9x17">9x17</string><string name="barcodeheight">条码高度</string><string name="height">高</string><string name="printchinesestring">打印中英文</string><string name="underline1">1点下划线</string><string name="printform">打印表格</string><string name="underline2">2点下划线</string><string name="qrcodestartorgx">二维码起始位置</string><string name="toast_usbpermit">请允许程序使用USB设备，并再次点击此按钮</string><string name="upsidedownprint">倒置打印</string><string name="menu_exit">退出</string><string name="sendcmd">发送命令</string><string name="fontsize">字体大小</string><string name="darkness">浓度</string><string name="binaryimage">文字图片</string><string name="connectpairedprinter">连接已配对打印机</string><string name="verifykey">验证密钥</string><string name="app_name">MyPrinter</string><string name="scaletimes_0">不放大</string><string name="printenglishstring">打印英文</string><string name="printbarcode">打印条形码</string><string name="rightspace">右间距</string><string name="contentdescription"/><string name="scaletimes_height_0">高不放大</string><string name="printrussianstring">打印俄文</string><string name="printpicture">打印图片</string><string name="textalign">对齐方式</string><string name="textalign_right">右对齐</string><string name="connectnetprinter">连接网络打印机</string><string name="printepsonqrcode">使用EPSON命令打印二维码</string><string name="connectusbprinter">连接USB打印机</string><string name="paperwidth3inch">3寸</string><string name="barcodefontposition">条码文本位置</string><string name="turnright90">右转90度</string><string name="darkness_standard">一般</string><string name="light">稍淡</string><string name="textalign_center">居中对齐</string><string name="command">命令</string><string name="bold">加粗</string><string name="qrcodewidth">二维码宽度</string><string name="qrcode">二维码</string><string name="barcode">条形码</string><string name="paperwidthsem">纸张宽度：</string><string name="connectprinterbtmac">连接指定打印机</string><string name="verify">验证</string><string name="port">Port</string><string name="inputbtmachint">在此输入蓝牙地址，形如01:23:45:67:89:AB</string><string name="picture">图片</string><string name="send">发送</string><string name="setprinterpara">设置打印机参数</string><string name="connect">连接</string><string name="ip">IP</string><string name="textalign_left">左对齐</string><string name="settings">设置</string><string name="checkkeyhint">请输入8个字符的密钥进行验证</string><string name="browser">浏览器</string><string name="printcurve">打印曲线</string><string name="paperwidth">纸张宽度</string><string name="setbtpara">设置打印机蓝牙参数</string><string name="form">表格</string><string name="sendtext">发送文本</string><string name="qrcodetype">二维码类型</string><string name="toast_notconnect">请先连接打印机</string><string name="startorgx">起始位置</string><string name="errorcorrectionlevel">纠错等级</string><string name="barcodefonttype">条码文本字体类型</string><string name="fontsize_standard">标准字体</string><string name="toast_success">成功</string><string name="connectbtmacaddress">连接指定蓝牙打印机</string><string name="blackwhitereverse">黑白反显</string><string name="updateprinterprogram">更新程序</string><string name="toast_fail">失败</string><string name="curve">曲线</string><string name="welcomes">欢迎使用</string><string name="search">Search</string><string name="clearreceive">清空接收</string><string name="paperwidth4inch">4寸</string><string name="web">网页</string><string name="underline">下划线</string><string name="halfcut">半切</string><string name="scaletimes">放大倍数</string><string name="webprint">网页打印</string><string name="printqrcode">打印二维码</string><string name="textandpicture">图文</string><string name="clearsend">清空发送</string><string name="searchkeyhint">请输入8个字符以设置打印机密钥</string><string name="cuttercmd">切刀命令</string><string name="set">设置</string><string name="recv">Recv:</string><string name="barcodewidth">条码宽度</string><string name="paperwidth2inch">2寸</string><string name="fontsize_12x24">12x24</string></file><file name="device_filter" path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\main\res\xml\device_filter.xml" qualifiers="" type="xml"/></source><source path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\build\generated\res\rs\debug"/><source path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\src\debug\res"/></dataSet><mergedItems/></merger>

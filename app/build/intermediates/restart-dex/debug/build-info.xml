@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="mdpi"
+    format="7"
+    timestamp="1562374544087394"
+    token="-5439674269968664197" >
+
+    <task
+        name="javac"
+        duration="1355" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="710" />
+    <task
+        name="verifier"
+        duration="225" />
+
+    <artifact
+        location="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1562374544087394" >
+        <artifact
+            location="E:\Documentos\MARANGELO\GUMA\MyPrinter3\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
